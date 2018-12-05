@@ -1,0 +1,89 @@
+.fondo{
+    background-color:#B38BA6;
+}
+.tamaño{
+    width: 300px; 
+    height: 200px
+}
+.letra{
+    color: #3C3132;
+}
+.ruta{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 65px;
+    left: 470px;
+}
+.ruta2{
+     position: absolute;
+    top: 50px;
+    left: 380px;
+}
+.whatsapp{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 440px;
+    top: 65px;
+}
+.numero{
+    position: absolute;
+    right: 400px;
+    top: 47px;
+}
+.reloj{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 150px;
+    top: 65px;
+}
+.hora{
+    position: absolute;
+    right: 75px;
+    top: 47px;
+}
+.cita{
+    background-color: #A3E4D7;
+    color: black;
+    height: 50px;
+    width: 90px;
+    position: absolute;
+    right:200px;
+    top: 870px;
+}
+.info{
+    width: 200px;
+    height: 570px;
+    position: absolute;
+    right: 150px;
+    top: 900px;
+}
+.perfil{
+    width: 200px;
+    height: 200px;
+}
+.nombre{
+   font-family: Only Of Quickly;
+   font-size: 24px;
+}
+.home{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -450px;
+    left: 50px;
+}
+.link2{
+    position: absolute;
+    bottom:-750px;
+    left: 50px;
+}
+.foto{
+    height: 450px;
+    width: 600px;
+    position: absolute;
+    right: 400px;
+    top: 250px;
+}
